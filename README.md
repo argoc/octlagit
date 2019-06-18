@@ -1,5 +1,8 @@
 # octlagit
 OC TLA Workshop: Git Basics (repository for learning)
+<<<<<<< HEAD
+this is a change
+=======
 
 # Addition from Dan's branch
 :octocat:
