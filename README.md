@@ -5,11 +5,13 @@ This is Rich's portion
 # Addition from Dan's branch
 :octocat:
 
+Added by markw - when trouble comes a long, you must git it
+
 This is Kevin's edit.
 
 ````
 
-                       ( o o )
+                        ( o o )
 +------------------.oooO--(_)--Oooo.------------------+
 |                                                     |
 |                    .oooO                            |
