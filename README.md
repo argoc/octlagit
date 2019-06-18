@@ -3,7 +3,7 @@ OC TLA Workshop: Git Basics (repository for learning)
 
 This is Kevin's edit.
 
-
+''''
 
                        ( o o )
 +------------------.oooO--(_)--Oooo.------------------+
@@ -14,5 +14,5 @@ This is Kevin's edit.
                        \_)    ) /
                              (_/
 
-
+''''
 
