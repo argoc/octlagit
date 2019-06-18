@@ -1,6 +1,9 @@
 # octlagit
 OC TLA Workshop: Git Basics (repository for learning)
 
+# Addition from Dan's branch
+:octocat:
+
 This is Kevin's edit.
 
 ````
@@ -41,3 +44,4 @@ This is Sandra's edit
 🖖
 
 :-)
+>>>>>>> master
