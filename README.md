@@ -16,6 +16,6 @@ This is Kevin's edit.
 
 ....
 
-This is Sandras edit
+This is Sandra's edit
 
 :-)
