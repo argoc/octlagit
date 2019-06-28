@@ -1,9 +1,13 @@
 # octlagit
 OC TLA Workshop: Git Basics (repository for learning)
+
+Amelia was here
+
 This is Rich's portion
 
 # Addition from Dan's branch
 :octocat:
+
 
 This is Kevin's edit.
 
@@ -45,4 +49,3 @@ This is Sandra's edit
 🖖
 
 :-)
->>>>>>> master
